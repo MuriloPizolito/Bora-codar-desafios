@@ -20,8 +20,8 @@
 
 ## 🚀 Tecnologias 
 
-- HTML 
-- CSS
+- HTML e CSS
+- JavaScript
 - Git e Github
 - Figma
 
