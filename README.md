@@ -3,7 +3,7 @@
 
 <h3 align="center"> #boraCodar são desafios semanais, promovidos pela Rocketseat para ensino de tecnologias WEB.<h3>
 
-## Tecnologias 🚀
+## 🚀 Tecnologias 
 
 - HTML e CSS
 - JavaScript
