@@ -17,6 +17,7 @@
 - [Componente de upload](https://murilopizolito.github.io/Bora-codar-desafios/Componente%20de%20upload/)
 - [Formulário de cartão](https://murilopizolito.github.io/Bora-codar-desafios/Formul%C3%A1rio%20de%20cart%C3%A3o/)
 - [Kanban](https://murilopizolito.github.io/Bora-codar-desafios/KanBan/)
+- [Tabela de preços](https://murilopizolito.github.io/Bora-codar-desafios/Tabela%20de%20pre%C3%A7os/)
 - [Tela de login](https://murilopizolito.github.io/Bora-codar-desafios/Tela%20de%20login/)
 
 ## Contato 
